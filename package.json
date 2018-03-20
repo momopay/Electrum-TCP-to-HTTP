@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chinafreak/Electrum-TCP-to-HTTP.git"
+    "url": "git+https://github.com/momopay/Electrum-TCP-to-HTTP.git"
   },
   "author": "Yan Huelsebusch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Chinafreak/Electrum-TCP-to-HTTP/issues"
+    "url": "https://github.com/momopay/Electrum-TCP-to-HTTP/issues"
   },
-  "homepage": "https://github.com/Chinafreak/Electrum-TCP-to-HTTP#readme",
+  "homepage": "https://github.com/momopay/Electrum-TCP-to-HTTP#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "electrum-client": "0.0.5",

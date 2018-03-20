@@ -1,7 +1,7 @@
 ## Run this project
 
 ```bash
-git clone https://github.com/Chinafreak/Electrum-TCP-to-HTTP.git
+git clone https://github.com/momopay/Electrum-TCP-to-HTTP.git
 cd Electrum-TCP-to-HTTP
 npm install
 node app
